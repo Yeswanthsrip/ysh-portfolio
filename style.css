@@ -102,8 +102,8 @@ transform:translateY(-5px);
 }
 
 .hero-image img{
-width:350px;
-height:350px;
+width:360px;
+height:360px;
 border-radius:50%;
 object-fit:cover;
 border:5px solid #38bdf8;
